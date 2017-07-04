@@ -1,0 +1,28 @@
+.banner img{
+   height: 300px;
+}
+.top_left{
+    float:right;
+    margin: 5px 0px;
+    overflow: hidden;
+}
+.top_left img{
+    width: 120px;
+    vertical-align: middle;
+    display: inline-block;
+    tranlastion:all 1s;
+}
+
+.top_left p{
+    width: 180px;
+    text-overflow : ellipsis; 
+    white-space : nowrap; 
+    overflow : hidden; 
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 20px;
+    color:black;
+    cursor: pointer
+}.top_left p:hover{
+   color: red;
+}

@@ -1,0 +1,9 @@
+.logo img{
+	width: 50px;
+}
+.menu {
+	margin-left: 5px;
+}
+.menu .login {
+	float: right;
+}

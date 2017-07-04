@@ -1,0 +1,21 @@
+.header{
+	padding: 5px 10px;
+	background: #ffd200;
+}
+.header img{
+	width: 50px;
+	vertical-align: middle;
+}
+.header span{
+	font-size: 20px;
+	color:red;
+	margin-left: 5px;
+}
+.header .icon{
+	float: right;
+	color: block;
+	font-size: 50px;
+}
+.header .modal img{
+	margin-left: 10px;
+}
