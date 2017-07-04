@@ -1,4 +1,4 @@
-1.Git
+﻿1.Git
     版本控制器
     优势：分布式
     svn:集中式
@@ -27,3 +27,4 @@
         $ git push origin master  :上传
         $ git clone "地址"  :克隆
         $ git pull          :更新
+5.没有视频
