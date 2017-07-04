@@ -28,3 +28,4 @@
         $ git clone "地址"  :克隆
         $ git pull          :更新
 5.没有视频
+6.nicai
